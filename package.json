@@ -1,0 +1,14 @@
+{
+  "name": "clonetabnews.com.br",
+  "version": "1.0.0",
+  "description": "Clone Tabnews curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6"
+  }
+}
